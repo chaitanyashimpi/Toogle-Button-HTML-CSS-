@@ -1,2 +1,2 @@
-# Toogle-Button-HTML-CSS-
+# Toogle Button (HTML | CSS)
 
